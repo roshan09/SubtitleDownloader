@@ -1,0 +1,88 @@
+Jul 30, 2017 7:16:21 PM com.opensubtitle.OpenSubtitle loadLoginConfig
+INFO: 
+	username is 
+	password is 
+	language is eng
+	useragent is moviejukebox 1.0.15
+
+Jul 30, 2017 7:16:22 PM com.opensubtitle.OpenSubtitle createClient
+INFO: 
+	XMLRpcClient created
+Jul 30, 2017 7:16:22 PM com.opensubtitle.OpenSubtitle login
+INFO: 
+	Login to OpenSubtitle....
+Jul 30, 2017 7:16:22 PM com.opensubtitle.OpenSubtitle login
+INFO: 
+	sessionID :CwG44X7P4Kal6J387ggR0MJJmJ2
+	status :null
+	time :0.004
+Jul 30, 2017 7:16:22 PM com.opensubtitle.OpenSubtitle searchSubtitle
+INFO: 
+	Searching for subtitles
+Jul 30, 2017 7:16:22 PM com.opensubtitle.OpenSubtitle searchSubtitle
+INFO: 
+	Status is 200 OK
+Jul 30, 2017 7:16:22 PM com.opensubtitle.OpenSubtitle DetailsOfMovie
+INFO: 
+	
+	SubActualCD  :  1
+	MovieName  :  Interstellar
+	SubBad  :  0
+	MovieHash  :  0
+	SubFileName  :  Interstellar.2014.720p.BluRay.x264-DAA.srt
+	SubSumCD  :  1
+	ZipDownloadLink  :  http://dl.opensubtitles.org/en/download/src-api/vrf-f5340bb8/sid-CwG44X7P4Kal6J387ggR0MJJmJ2/subad/6080089
+	MovieNameEng  :  
+	SubSize  :  145245
+	IDSubtitleFile  :  1954659816
+	SubHash  :  0688aa426f19ea8ea0474abe0c99b782
+	SubFeatured  :  0
+	SubAuthorComment  :  
+	SubDownloadsCnt  :  381925
+	SubAddDate  :  2015-03-15 06:42:08
+	SubLastTS  :  02:43:40
+	SubAutoTranslation  :  0
+	MovieReleaseName  :  Interstellar.2014.720p.BluRay.x264-DAA
+	SeriesIMDBParent  :  0
+	Score  :  27.29925
+	UserNickName  :  Luis-subs
+	SubHearingImpaired  :  0
+	SubTSGroup  :  1
+	QueryCached  :  1
+	SubLanguageID  :  eng
+	SubFormat  :  srt
+	LanguageName  :  English
+	SubTranslator  :  
+	SeriesEpisode  :  0
+	UserRank  :  administrator
+	MovieImdbRating  :  8.6
+	MovieTimeMS  :  0
+	MovieYear  :  2014
+	SubEncoding  :  UTF-8
+	QueryNumber  :  0
+	SubHD  :  1
+	UserID  :  1568273
+	MovieByteSize  :  0
+	MovieFPS  :  23.976
+	SubtitlesLink  :  http://www.opensubtitles.org/en/subtitles/6080089/sid-CwG44X7P4Kal6J387ggR0MJJmJ2/interstellar-en
+	IDSubMovieFile  :  0
+	ISO639  :  en
+	SeriesSeason  :  0
+	SubFromTrusted  :  1
+	SubTSGroupHash  :  fac2c726d1fb013d2337362db0ac1256
+	MatchedBy  :  fulltext
+	SubDownloadLink  :  http://dl.opensubtitles.org/en/download/src-api/vrf-19e30c5f/sid-CwG44X7P4Kal6J387ggR0MJJmJ2/filead/1954659816.gz
+	SubRating  :  2.4
+	QueryParameters  :  {query=interstellar, sublanguageid=eng}
+	SubComments  :  1
+	MovieKind  :  movie
+	IDMovie  :  182630
+	IDMovieImdb  :  816692
+	SubForeignPartsOnly  :  0
+	IDSubtitle  :  6080089
+Jul 30, 2017 7:16:22 PM com.opensubtitle.OpenSubtitle downloadSubtitle
+INFO: 
+	Downloading subtitle...
+Jul 30, 2017 7:16:23 PM com.opensubtitle.OpenSubtitle downloadSubtitle
+INFO: 
+	Subtitles downloaded successfully...
