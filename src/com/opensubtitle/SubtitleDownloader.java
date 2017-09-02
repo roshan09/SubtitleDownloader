@@ -5,10 +5,17 @@ package com.opensubtitle;
  */
 public class SubtitleDownloader {
 
-    public static void main(String args[]) {
-        OpenSubtitle openSubtitle = new OpenSubtitle();
-        openSubtitle.login();
-        openSubtitle.searchSubtitle("Interstellar");
-        openSubtitle.downloadSubtitle();
+	public void download(String movieName)
+	{
+		OpenSubtitle openSubtitle = new OpenSubtitle();
+		openSubtitle.login();
+		openSubtitle.searchSubtitle(movieName);
+		openSubtitle.downloadSubtitle();
+	}
+	
+    public static void main(String args[])
+	{
+        SubtitleDownloader downloader = new SubtitleDownloader();
+		downloader.download("Interstellar");
     }
 }
